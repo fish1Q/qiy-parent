@@ -1,5 +1,5 @@
-/.settings/
+.settings/
 .classpath
-/target/
+target/
 .project
 .gitgnore
